@@ -1,0 +1,116 @@
+[
+    {
+        "Id": 1,
+        "Title": "simba",
+        "Director": "maikle",
+        "Genre": "carton",
+        "Year": "1999"
+    },
+    {
+        "Id": 2,
+        "Title": "Fast 7",
+        "Director": "Rock",
+        "Genre": "Action",
+        "Year": "2017"
+    },
+    {
+        "Title": "fox",
+        "Director": "dark",
+        "Genre": "cluter",
+        "Year": "2020",
+        "Id": 3
+    },
+    {
+        "Title": "The Lion King",
+        "Year": "2019",
+        "Runtime": "118 min",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+        "Director": "unknown",
+        "Genre": "unknown",
+        "Id": 4
+    },
+    {
+        "Title": "Doctor Strange",
+        "Year": "2016",
+        "Runtime": "115 min",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+        "Director": "unknown",
+        "Genre": "unknown",
+        "Id": 5
+    },
+    {
+        "Title": "John Wick",
+        "Year": "2014",
+        "Runtime": "101 min",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+        "Director": "unknown",
+        "Genre": "unknown",
+        "Id": 6
+    },
+    {
+        "Title": "The Notebook",
+        "Year": "2004",
+        "Runtime": "123 min",
+        "Director": "unknown",
+        "Genre": "unknown",
+        "Id": 7
+    },
+    {
+        "Id": 8,
+        "Title": "fire",
+        "Director": "smeth",
+        "Genre": "action",
+        "Year": "1995"
+    },
+    {
+        "Id": 9,
+        "Title": "sandrela",
+        "Director": "sandy",
+        "Genre": "romantic",
+        "Year": "1889"
+    },
+    {
+        "Title": "The Lion King",
+        "Year": "2019",
+        "Runtime": "118 min",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+        "Id": 9,
+        "Director": "unknown",
+        "Genre": "unknown"
+    },
+    {
+        "Title": "Mowgli: Legend of the Jungle",
+        "Year": "2018",
+        "Runtime": "104 min",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+        "Id": 10,
+        "Director": "unknown",
+        "Genre": "unknown"
+    },
+    {
+        "Title": "Doctor Strange",
+        "Year": "2016",
+        "Runtime": "115 min",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+        "Id": 11,
+        "Director": "unknown",
+        "Genre": "unknown"
+    },
+    {
+        "Title": "John Wick",
+        "Year": "2014",
+        "Runtime": "101 min",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+        "Id": 12,
+        "Director": "unknown",
+        "Genre": "unknown"
+    },
+    {
+        "Title": "The Notebook",
+        "Year": "2004",
+        "Runtime": "123 min",
+        "Id": 13,
+        "Director": "unknown",
+        "Genre": "unknown"
+    }
+]
